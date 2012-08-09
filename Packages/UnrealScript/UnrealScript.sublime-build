@@ -1,0 +1,4 @@
+{
+	"cmd": ["start C:\UDK\UDK-2011-Sept\Binaries\UnrealFrontend.exe", "make"],
+	"selector": "source.unrealscript"
+}

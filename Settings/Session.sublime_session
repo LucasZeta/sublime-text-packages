@@ -1,0 +1,498 @@
+{
+	"folder_history":
+	[
+		"/C/Users/Jackneill/Desktop/vankedv/vankedv",
+		"/C/Users/Jackneill/Desktop/Tabornok"
+	],
+	"last_window_id": 4,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"require",
+						"require_relative"
+					],
+					[
+						"login",
+						"login_page"
+					]
+				]
+			},
+			"build_system": "Packages/Ruby/Ruby.sublime-build",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"",
+						"Preferences: Key Bindings - Default"
+					]
+				],
+				"width": 392.0
+			},
+			"console":
+			{
+				"height": 96.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Jackneill/Downloads/devkit/config.yml",
+				"/C/Users/Jackneill/Desktop/Tabornok/lib/tabornok/utils.rb",
+				"/C/Users/Jackneill/Desktop/Tabornok/lib/tabornok/pinger.rb",
+				"/C/Users/Jackneill/Desktop/Tabornok/lib/tabornok/parser.rb",
+				"/C/Users/Jackneill/Desktop/Tabornok/lib/tabornok/logger.rb",
+				"/C/Users/Jackneill/Desktop/Tabornok/lib/tabornok/irc.rb",
+				"/C/Users/Jackneill/Desktop/Tabornok/lib/tabornok/console.rb",
+				"/C/Users/Jackneill/Desktop/Tabornok/lib/tabornok.rb",
+				"/C/Users/Jackneill/Desktop/vmi/lib/test.rb",
+				"/C/Users/Jackneill/Desktop/vmi/lib/test/bla.rb",
+				"/C/Users/Jackneill/Desktop/Tabornok/lib/tabornok/sender.rb",
+				"/C/Users/Jackneill/Desktop/test.rb",
+				"/C/Users/Jackneill/AppData/Local/Temp/Rar$DI99.736/sublime_text",
+				"/C/Users/Jackneill/Desktop/Fs/fs.rb",
+				"/C/Users/Jackneill/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/Jackneill/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Jackneill/AppData/Roaming/Nettalk/PublicLog.dat",
+				"/C/Users/Jackneill/Downloads/megax-Schumix2-v3.7.0-156-g9f2aa6c/megax-Schumix2-9f2aa6c/Run/Debug/Configs/Schumix.xml",
+				"/C/Users/Jackneill/Downloads/megax-Schumix2-v3.7.0-156-g9f2aa6c/megax-Schumix2-9f2aa6c/Schumix.xml",
+				"/C/Users/Jackneill/Desktop/mw_sun_position.jpg"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"} while (",
+					"} while(",
+					"}while("
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 25.0
+			},
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"",
+						"untitled"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ircm",
+						"ircmessage"
+					],
+					[
+						"thr",
+						"thread_read_console"
+					],
+					[
+						"irc",
+						"ircmessage"
+					],
+					[
+						"par",
+						"parse_privmsg"
+					],
+					[
+						"Lo",
+						"Locale"
+					],
+					[
+						"L",
+						"Localization"
+					],
+					[
+						"Ign",
+						"Ignore"
+					],
+					[
+						"d",
+						"Database"
+					],
+					[
+						"H",
+						"Host"
+					],
+					[
+						"M",
+						"MySql"
+					],
+					[
+						"Ir",
+						"IrcLogDirectory"
+					],
+					[
+						"Host",
+						"HostServ"
+					],
+					[
+						"Ni",
+						"NickServ"
+					],
+					[
+						"Ignoe",
+						"IgnoreNames"
+					],
+					[
+						"Ignore",
+						"IgnoreChannels"
+					],
+					[
+						"User",
+						"UserInfo"
+					],
+					[
+						"S",
+						"Schumix2"
+					],
+					[
+						"Use",
+						"UserName"
+					],
+					[
+						"_",
+						"__Schumix2"
+					],
+					[
+						"N",
+						"NickName3"
+					],
+					[
+						"require",
+						"require_relative"
+					],
+					[
+						"login",
+						"login_page"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "Packages/Ruby/Ruby.sublime-build",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"",
+						"Preferences: Key Bindings - Default"
+					]
+				],
+				"width": 392.0
+			},
+			"console":
+			{
+				"height": 96.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Jackneill/Desktop/Tabornok/lib/tabornok/logger.rb",
+				"/C/Users/Jackneill/Desktop/Tabornok/lib/tabornok/console.rb",
+				"/C/Users/Jackneill/Desktop/Tabornok/lib/tabornok/utils.rb",
+				"/C/Users/Jackneill/Desktop/Tabornok/lib/tabornok/irc.rb",
+				"/C/Users/Jackneill/Desktop/Tabornok/lib/tabornok/ircmessage.rb",
+				"/C/Users/Jackneill/Desktop/Tabornok/lib/tabornok/parser.rb",
+				"/C/Users/Jackneill/Desktop/Tabornok/lib/tabornok.rb",
+				"/C/Users/Jackneill/AppData/Roaming/Sublime Text 2/Settings/Session.sublime_session",
+				"/C/Users/Jackneill/Desktop/Tabornok/lib/tabornok/pinger.rb",
+				"/C/Users/Jackneill/Desktop/Tabornok/lib/tabornok/sender.rb",
+				"/C/Users/Jackneill/Desktop/GitHubLog.txt",
+				"/C/Users/Jackneill/Desktop/fepwjfwe.TXT",
+				"/C/Users/Jackneill/Desktop/passok.txt",
+				"/C/Users/Jackneill/Desktop/sitedevelopment.tk/application/controllers/welcome.php",
+				"/C/Users/Jackneill/Desktop/myworld/application/controllers/login.php",
+				"/C/Users/Jackneill/Desktop/vankedv/vankedv/app/controllers/index_controller.rb",
+				"/C/Users/Jackneill/Desktop/vankedv/vankedv/app/controllers/application_controller.rb",
+				"/C/Users/Jackneill/Desktop/vankedv/vankedv/config/routes.rb",
+				"/C/Users/Jackneill/Documents/Visual Studio 2012/Projects/ConsoleApplication1/ConsoleApplication1/ConsoleApplication1/bin/Debug/test.TXT",
+				"/C/Users/Jackneill/Desktop/UDK/UDN - Three - AIAndNavigationHome.htm",
+				"/G/UDK/UDK-2012-05/Development/Src/UTGame/UTStats.uci",
+				"/C/Users/Jackneill/AppData/Roaming/Sublime Text 2/Packages/UnrealScript/UnrealScript.tmLanguage",
+				"/C/Users/Jackneill/Desktop/sth.uc",
+				"/G/UDK/UDK-2012-05/Development/Src/GFxUI/Classes/GFxMoviePlayer.uc",
+				"/G/UDK/UDK-2012-05/Development/Src/GFxUI/Classes/GFxEvent_FsCommand.uc",
+				"/G/UDK/UDK-2012-05/Development/Src/GFxUI/Classes/GFxFSCmdHandler.uc",
+				"/G/UDK/UDK-2012-05/Development/Src/GFxUI/Classes/SwfMovie.uc",
+				"/G/UDK/UDK-2012-05/Development/Src/GFxUI/Classes/GFxRawData.uc",
+				"/G/UDK/UDK-2012-05/Development/Src/GFxUI/Classes/GFxFSCmdHandler_Kismet.uc",
+				"/G/UDK/UDK-2012-05/Development/Src/GFxUI/Classes/GFxAction_SetVariable.uc",
+				"/G/UDK/UDK-2012-05/Development/Src/GFxUI/Classes/GFxObject.uc",
+				"/G/UDK/UDK-2012-05/Development/Src/GFxUI/Classes/GFxInteraction.uc",
+				"/G/UDK/UDK-2012-05/Development/Src/GFxUI/Classes/GFxEngine.uc",
+				"/G/UDK/UDK-2012-05/Development/Src/GFxUI/Classes/GFxClikWidget.uc",
+				"/G/UDK/UDK-2012-05/Development/Src/GFxUI/Classes/GFxAction_SetCaptureKeys.uc",
+				"/G/UDK/UDK-2012-05/Development/Src/GFxUI/Classes/GFxAction_OpenMovie.uc",
+				"/G/UDK/UDK-2012-05/Development/Src/GFxUI/Classes/GFxAction_Invoke.uc",
+				"/G/UDK/UDK-2012-05/Development/Src/GFxUI/Classes/GFxAction_GetVariable.uc",
+				"/G/UDK/UDK-2012-05/Development/Src/GFxUI/Classes/GFxAction_CloseMovie.uc",
+				"/G/UDK/UDK-2012-05/Development/Src/GFxUI/Classes/FlashMovie.uc",
+				"/G/UDK/UDK-2012-05/Development/Flash/AS3/CLIK/scaleform/clik/ui/InputDetails.as",
+				"/C/users/jackneill/documents/github/schumix2/Configs/Schumix.yml",
+				"/C/Users/Jackneill/Documents/GitHub/Schumix2/Applications/Schumix.Config/CopyTo/Copy.cs",
+				"/C/users/jackneill/documents/github/schumix2/Schumix.yml",
+				"/C/users/jackneill/documents/github/schumix2/Schumix.xml",
+				"/C/Users/Jackneill/Desktop/vankedv/vankedv/config/locales/en.yml",
+				"/C/Users/Jackneill/Desktop/vankedv/vankedv/app/views/index/index.html.erb",
+				"/C/Users/Jackneill/Desktop/vankedv/vankedv/app/views/index/show.html.erb",
+				"/C/Users/Jackneill/Desktop/vankedv/vankedv/config/environments/development.rb",
+				"/C/Users/Jackneill/Desktop/vankedv/vankedv/config/environments/production.rb",
+				"/C/Users/Jackneill/Desktop/vankedv/vankedv/config/environments/test.rb",
+				"/C/Users/Jackneill/Desktop/vankedv/vankedv/app/views/layouts/application.html.erb",
+				"/C/Users/Jackneill/Desktop/vankedv/vankedv/app/assets/stylesheets/application.css",
+				"/C/Users/Jackneill/Desktop/vankedv/vankedv/app/assets/stylesheets/index.css.scss",
+				"/C/Users/Jackneill/Desktop/vankedv/vankedv/app/assets/images/rails.png",
+				"/C/Users/Jackneill/Downloads/devkit/config.yml",
+				"/C/Users/Jackneill/Desktop/vmi/lib/test.rb",
+				"/C/Users/Jackneill/Desktop/vmi/lib/test/bla.rb",
+				"/C/Users/Jackneill/Desktop/test.rb",
+				"/C/Users/Jackneill/AppData/Local/Temp/Rar$DI99.736/sublime_text",
+				"/C/Users/Jackneill/Desktop/Fs/fs.rb",
+				"/C/Users/Jackneill/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/Jackneill/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Jackneill/AppData/Roaming/Nettalk/PublicLog.dat",
+				"/C/Users/Jackneill/Downloads/megax-Schumix2-v3.7.0-156-g9f2aa6c/megax-Schumix2-9f2aa6c/Run/Debug/Configs/Schumix.xml",
+				"/C/Users/Jackneill/Downloads/megax-Schumix2-v3.7.0-156-g9f2aa6c/megax-Schumix2-9f2aa6c/Schumix.xml",
+				"/C/Users/Jackneill/Desktop/mw_sun_position.jpg"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"} while (",
+					"} while(",
+					"}while("
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/C/Users/Jackneill/Desktop/vankedv/vankedv"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 25.0
+			},
+			"position": "0,2,3,-1,-1,-1,-1,615,260,77,916",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"",
+						"untitled"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 188.0,
+			"status_bar_visible": true,
+			"window_id": 4,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
