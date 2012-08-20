@@ -1,7 +1,18 @@
 {
-	"auto_upgrade_last_run": 1345388542,
+	"auto_upgrade_last_run": 1345453034,
 	"installed_packages":
 	[
+		"All Autocomplete",
+		"alternative_autocompletion",
+		"Bison",
+		"CodeIgniter Snippets",
+		"Flex",
+		"Gist",
+		"Git",
+		"Gitignore",
+		"hlsl",
+		"OpenGL Shading Language (GLSL)",
+		"Package Control",
 		"Tortoise"
 	]
 }

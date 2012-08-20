@@ -274,27 +274,23 @@
 			},
 			"buffers":
 			[
-				{
-					"file": "/C/Users/Jackneill/AppData/Roaming/Sublime Text 2/Packages/User/hex_color_coloring.py",
-					"settings":
-					{
-						"buffer_size": 149,
-						"line_ending": "Windows"
-					}
-				}
 			],
 			"build_system": "Packages/Ruby/Ruby.sublime-build",
 			"command_palette":
 			{
-				"height": 392.0,
+				"height": 311.0,
 				"selected_items":
 				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
 					[
 						"",
 						"Preferences: Key Bindings - Default"
 					]
 				],
-				"width": 392.0
+				"width": 400.0
 			},
 			"console":
 			{
@@ -311,6 +307,7 @@
 			},
 			"file_history":
 			[
+				"/C/Users/Jackneill/AppData/Roaming/Sublime Text 2/Packages/User/hex_color_coloring.py",
 				"/C/Users/Jackneill/Documents/GitHub/lua/src/lua.hpp",
 				"/C/Users/Jackneill/Documents/GitHub/lua/src/lvm.c",
 				"/C/Users/Jackneill/Documents/GitHub/lua/src/lparser.c",
@@ -447,35 +444,8 @@
 			"groups":
 			[
 				{
-					"selected": 0,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/C/Users/Jackneill/AppData/Roaming/Sublime Text 2/Packages/User/hex_color_coloring.py",
-							"settings":
-							{
-								"buffer_size": 149,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										149,
-										149
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						}
 					]
 				}
 			],
@@ -514,7 +484,7 @@
 			{
 				"height": 25.0
 			},
-			"position": "0,2,3,-32000,-32000,-1,-1,538,53,0,709",
+			"position": "0,2,3,-1,-1,-1,-1,538,53,0,709",
 			"replace":
 			{
 				"height": 0.0
